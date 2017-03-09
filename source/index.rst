@@ -42,5 +42,5 @@ Table des matières
    pygame/index.rst
    secrets/index.rst
    itertools/index.rst
-
+   pytest/index.rst
    licence.rst
